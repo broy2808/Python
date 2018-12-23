@@ -1,2 +1,2 @@
 # Python
-Python Algo, data analysis
+Python practice
